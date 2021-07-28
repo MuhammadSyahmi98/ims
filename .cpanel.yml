@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/syahmi/ims.muhammadsyahmi.com/
+    - export DEPLOYPATH=/home/syahmi/inventory.muhammadsyahmi.com/
     - /bin/cp -R * $DEPLOYPATH
